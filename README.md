@@ -19,4 +19,4 @@
 
 **9. Linear Regression with Keras**
 
-**10. Support Vector Regression (SVR)**# PPML-RECORD
+**10. Support Vector Regression (SVR)**
