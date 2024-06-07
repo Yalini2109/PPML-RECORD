@@ -11,12 +11,12 @@
 
 **5. Vehicle Performance Analysis (using Pandas):**
 
-**6. Data Wrangling:**
+**6. Data Wrangling**
 
-**7. Linear Regression:**
+**7. Linear Regression**
 
-**8. Logistic Regression:**
+**8. Logistic Regression**
 
-**9. Linear Regression with Keras:**
+**9. Linear Regression with Keras**
 
-**10. Support Vector Regression (SVR):**# PPML-RECORD
+**10. Support Vector Regression (SVR)**# PPML-RECORD
